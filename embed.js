@@ -6,7 +6,7 @@ const { Discord, MessageEmbed, Message } = require("discord.js");
 		run: async (client, message, args) => {
             /*
             Autor: Pawełekk#0420
-            Github: 
+            Github: https://github.com/PawelekDev/komendy
             28.07.2020
             */
             
