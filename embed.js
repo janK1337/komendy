@@ -4,7 +4,11 @@ const { Discord, MessageEmbed, Message } = require("discord.js");
 		name: "embed",
 
 		run: async (client, message, args) => {
-            
+            /*
+            Autor: Pawełekk#0420
+            Github: 
+            28.07.2020
+            */
             
             let tytul = "";
             let opis = "";
